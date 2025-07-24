@@ -5,7 +5,7 @@
 
 **Author:** Ether-G  
 **Date:** 07/19/2025 
-
+https://www.youtube.com/watch?v=rf3BKcg2_2E
 ## Overview
 
 Inventory management system built with Python and SQLite demonstrating database concepts including CRUD operations, relational design, SQL joins, aggregate functions, and date/time operations.
